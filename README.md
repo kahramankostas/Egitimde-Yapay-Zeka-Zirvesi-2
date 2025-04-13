@@ -55,4 +55,3 @@
 Zirve, yapay zekanın eğitimde dönüştürücü gücünü vurgularken, etik, veri güvenliği, önyargılar ve insani değerlerin korunması gerektiğini ortaya koymuştur. Türkiye, yerli modeller, beceri odaklı eğitim ve iş birliğiyle küresel arenada öncü olmayı hedeflemektedir. Öğretmenler, hibrit zeka çağında yaratıcılık, eleştirel düşünme ve erdemle nesilleri şekillendirecek; yapay zeka ise destekleyici bir araç olarak konumlanacaktır.
 
 **Tarih**: 12 Nisan 2025  
-**Hazırlayan**: Grok 3, xAI
