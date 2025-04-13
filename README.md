@@ -141,4 +141,3 @@
 Zirve, yapay zekanın eğitimde kişiselleştirme, erişim ve beceri geliştirme gibi fırsatlar sunduğunu; ancak önyargılar, veri güvenliği, kültürel yabancılaşma ve çevresel etkiler gibi riskler taşıdığını ortaya koydu. Türkiye, yerli dil modelleri, beceri odaklı ölçme-değerlendirme ve etik kullanım stratejileriyle bu dönüşümü yönetmeyi hedefliyor. Öğretmenler, yaratıcılık, eleştirel düşünme ve erdemle nesilleri şekillendiren “beyin cerrahları” olarak merkezde kalacak. Yapay zeka, pedagojik rolleri destekleyen bir araç olarak konumlanırken, iş birliği, standartlaşma ve fırsat eşitliği Türkiye’nin yol haritasını güçlendiriyor.
 
 **Tarih**: 12 Nisan 2025  
----
