@@ -1,4 +1,4 @@
-## **Rapor: İkinci Eğitimde Yapay Zeka Zirvesi Detaylı Özeti**
+## **Rapor: II. Eğitimde Yapay Zeka Zirvesi Detaylı Özeti**
 
 İstanbul İl Milli Eğitim Müdürlüğü ve İstanbul Teknik Üniversitesi iş birliğiyle düzenlenen **İkinci Eğitimde Yapay Zeka Zirvesi**, eğitimde yapay zekanın fırsatlarını, risklerini ve etik entegrasyonunu derinlemesine ele aldı. Zirve, eğitimciler, akademisyenler, sektör temsilcileri ve politika yapıcıları bir araya getirerek Türkiye’nin yapay zeka çağında eğitim vizyonunu şekillendirmeyi amaçladı. Aşağıda, zirvenin yedi bölümü hakkında ayrıntılı özetler sunulmaktadır.
 
